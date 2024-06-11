@@ -31,7 +31,7 @@
   <img align="center" alt="icon-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="icon-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="icon-postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
-  <img align="center" alt="icon-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="icon-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="icon-dbeaver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
   <img align="center" alt="icon-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="icon-mySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
