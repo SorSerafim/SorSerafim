@@ -20,7 +20,7 @@
   <img align="center" alt="icon-" height="30" width="40" src=""> -->
   <img align="center" alt="icon-fedora" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
   <img align="center" alt="icon-rider" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg">
-  <img align="center" alt="icon-visualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="icon-visualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="icon-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="icon-nodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
