@@ -34,7 +34,7 @@
   <img align="center" alt="icon-dbeaver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
   <img align="center" alt="icon-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="icon-mySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="icon-" height="30" width="40" src="">
+  <img align="center" alt="icon-sqlserver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 
   
 <!--  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/VRKheDy4DkBMrQm66p/giphy.gif"> -->
