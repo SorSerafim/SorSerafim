@@ -19,6 +19,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="icon-" height="30" width="40" src=""> -->
   <img align="center" alt="icon-fedora" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
+  <img align="center" alt="icon-" height="30" width="40" src="">
   <img align="center" alt="icon-visualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="icon-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="icon-nodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
@@ -28,7 +29,7 @@
   <img align="center" alt="icon-dbeaver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg">
   <img align="center" alt="icon-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="icon-mySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  
+  <img align="center" alt="icon-postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
 
   
 <!--  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/VRKheDy4DkBMrQm66p/giphy.gif"> -->
