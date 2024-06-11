@@ -24,6 +24,10 @@
   <img align="center" alt="icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="icon-mySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="icon-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="icon-fedora" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg">
+
+
+  
 <!--  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/VRKheDy4DkBMrQm66p/giphy.gif"> -->
 </div>
   
