@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Ricardo Serafim
 
 - 🔭 Futuro Desenvolvedor Full Stack
-- 🌱 Estudando C#, Dart e JavaScript
+- 🌱 Estudando C#, Java e Angular
 - 📫 Contate-me no email: ricardoserafim1920@gmail.com
-- ⚡ Fun fact: eu
+<!-- - ⚡ Fun fact: eu -->
 
 <div align="center">
   <a href="https://github.com/SorSerafim">
