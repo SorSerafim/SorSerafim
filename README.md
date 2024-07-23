@@ -17,8 +17,6 @@
   -->
   <img align="center" alt="icon-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="icon-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-
-  https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg
   <!--
   <img align="center" alt="icon-rider" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg">
   <img align="center" alt="icon-visualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg">
