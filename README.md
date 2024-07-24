@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ricardo Serafim
 
-- 🔭 Futuro Desenvolvedor Full Stack
+- 🔭 Desenvolvedor Full Stack
 - 🌱 Estudando TypeScript, JavaScript e C#
 - 📫 Contate-me no email: ricardoserafim1920@gmail.com
 <!-- - ⚡ Fun fact: eu -->
