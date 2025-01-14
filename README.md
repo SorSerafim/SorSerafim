@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ricardo Serafim
 
-- 🔭 Desenvolvedor Full Stack
-- 🌱 Estudando TypeScript, JavaScript e C#
+- 🔭 Desenvolvedor Web/App
+- 🌱 Estudando CakePHP, Laravel, .NET e Vue.
 - 📫 Contate-me no email: ricardoserafim1920@gmail.com
 <!-- - ⚡ Fun fact: eu -->
 
@@ -15,16 +15,15 @@
 <!--  
   <img align="center" alt="icon-" height="30" width="40" src=""> 
   -->
-  <img align="center" alt="icon-Ubuntu" height="32" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="icon-Ubuntu" height="32" width="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
   <img align="center" alt="icon-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="icon-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="icon-php" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="icon-Csharp" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="icon-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="icon-nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"> 
+  <img align="center" alt="icon-nest" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="icon-vue" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="icon-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-angular" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-  <img align="center" alt="icon-vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="icon-postman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+  <img align="center" alt="icon-postman" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
   <img align="center" alt="icon-postgresql" height="32" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <!--
   <img align="center" alt="icon-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
