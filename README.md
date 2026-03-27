@@ -1,53 +1,53 @@
-### Olá! Eu sou o Ricardo Serafim
+Olá! Eu sou o Ricardo Serafim 👋
+Sou um Desenvolvedor Full-Stack apaixonado por transformar problemas complexos em soluções escaláveis. Atualmente, curso Engenharia de Software e foco na construção de sistemas robustos utilizando o ecossistema .NET, PHP e tecnologias modernas de Front-end e Mobile.
 
-- 🔭 Desenvolvedor Web/App
-- 🌱 Estudando CakePHP, Laravel, .NET e Vue.
-- 📫 Contate-me no email: ricardoserafim1920@gmail.com
-<!-- - ⚡ Fun fact: eu -->
+🔭 Atualmente trabalhando em: Projetos SaaS para o setor de delivery, sistemas de automação via WhatsApp e APIs de reconhecimento facial.
 
+📱 Mobile: Desenvolvendo aplicações performáticas com Flutter.
+
+🏗️ Arquitetura: Focado em boas práticas, APIs RESTful e bancos de dados relacionais (PostgreSQL).
+
+🐧 Entusiasta Linux: Usuário assíduo e explorador de diferentes distribuições.
+
+📫 Contato: ricardoserafim1920@gmail.com
+
+🛠️ Tecnologias e Ferramentas
+<div align="left">
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP">
+
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+</div>
+
+📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/SorSerafim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SorSerafim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorSerafim&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SorSerafim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorSerafim&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
-<div style="display: inline_block"><br>
-<!--  
-  <img align="center" alt="icon-" height="30" width="40" src=""> 
-  -->
-  <img align="center" alt="icon-Ubuntu" height="32" width="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
-  <img align="center" alt="icon-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="icon-php" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="icon-Csharp" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="icon-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="icon-nest" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="icon-vue" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="icon-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="icon-postman" height="30" width="35" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
-  <img align="center" alt="icon-postgresql" height="32" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <!--
-  <img align="center" alt="icon-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="icon-mySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="icon-sqlserver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  -->
-  <img align="center" alt="icon-docker" height="32" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
 
-  
-<img align="right" alt="pic" height="150" style="border-radius:50;" src="https://media.giphy.com/media/VRKheDy4DkBMrQm66p/giphy.gif">
-</div>
-  
-  ##
-  
-<div> 
-  
-  <a href="https://instagram.com/ri.sos_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/sourisin" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/CWmgrKKYhs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ricardoserafim1920@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-serafim-34bb0146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- <!-- 
-  ![Snake animation](https://github.com/SorSerafim/SorSerafim/blob/output/github-contribution-grid-snake.svg)
-  -->
- 
+📫 Conecte-se Comigo
+<div align="center">
+<a href="https://www.linkedin.com/in/ricardo-serafim-34bb0146" target="blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://instagram.com/ri.sos" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.twitch.tv/sourisin" target="_blank">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+</a>
+<a href="https://discord.gg/CWmgrKKYhs" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 </div>
